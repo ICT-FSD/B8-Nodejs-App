@@ -1,0 +1,25 @@
+{
+  "name": "tutorialapp",
+  "version": "1.0.0",
+  "description": "nodejs app using express and mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonyalphy/B8-Nodejs-App.git"
+  },
+  "author": "sony joy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonyalphy/B8-Nodejs-App/issues"
+  },
+  "homepage": "https://github.com/sonyalphy/B8-Nodejs-App#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.2"
+  }
+}
